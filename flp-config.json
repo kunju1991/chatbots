@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "demo.mapanalyticMap.analyticMap",
+        "description": "Analytic Map demo",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#analyticMap-Display",
+        "navigationComponentName": "demo.mapanalyticMap",
+        "intentSemanticObject": "analyticMap",
+        "intentAction": "Display",
+        "html5ApplicationName": "analyticmap",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "cfb54042-baa8-4573-83e9-6832d4dc067f-1513695941510"
+        ],
+        "contentPackages": [
+            "bc76cba2-6470-4c21-85bf-a29d195ab4d0-1513695871307"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Analytic Map",
+        "subtitle": "Coloring and interaction",
+        "searchKeywords": "Analytic Map,Coloring and interaction",
+        "displayIconUrl": "sap-icon://world",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
